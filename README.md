@@ -15,7 +15,6 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 **Dashboard File**
 -<a href = "Call Center Analysis .xlsx"> Dashboard_File</a>
 
----
 
 ### **Key Features and Functionalities**
 
@@ -38,8 +37,6 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
     - Demographic Analysis: Provides insights into caller gender and location distributions.
     - Representative Performance Analysis: Analyzes revenue generation and call handling efficiency per representative.
 
----
-
 ### **Project Insights and Conclusions**
 
 1. **Key Metrics Overview**
@@ -57,7 +54,6 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
     - R02 emerged as the top performer, generating the highest revenue of $20.9K.
     - R01 demonstrated efficiency with fewer calls but higher-value transactions.
 
----
 
 ### **Recommendations for Optimization**
 
@@ -82,4 +78,5 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 
 This Call Center Performance Dashboard is an exemplary project showcasing my expertise in Excel and data analysis. It demonstrates a strong ability to interpret and visualize data effectively, delivering actionable insights that drive business decisions. This project is a testament to my skills in building dynamic, data-driven solutions that align with organizational goals.
 
-**Dashboard Image**
+**Dashboard Image** <a href = "Call Center Dashboard.png">Dashboard</a>
+![Call Center Dashboard](https://github.com/user-attachments/assets/cf65188e-d4d5-42a7-a0f5-2056488b0a98)
