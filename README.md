@@ -10,11 +10,11 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 
 **Dataset**
 
-[Dataset Link](https://www.notion.so/Sahil-Gupta-Aspiring-Data-Analyst-16fa2286622b805e8061e2c47e33d014?pvs=21)
+-< a href = "Call Center Dataset.xlsx">Dataset_Link</a>
 
 **Dashboard File**
 
-[Download Dashboard File](https://www.notion.so/Sahil-Gupta-Aspiring-Data-Analyst-16fa2286622b805e8061e2c47e33d014?pvs=21)
+
 
 ---
 
