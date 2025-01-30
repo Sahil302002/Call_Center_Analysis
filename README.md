@@ -1,6 +1,6 @@
 # Call Center Performance Dashboard of 2023 ( Interactive and Dynamic Dashboard using Microsoft Excel)
 
-**Project Overview**
+# **Project Overview**
 
 The Call Center Performance Dashboard is a comprehensive analytical solution built in Microsoft Excel to provide an in-depth overview of call center operations in 2023. This project leverages advanced Excel functionalities like Power Pivot, DAX, and data modeling to create an interactive, visually appealing dashboard showcasing key performance indicators (KPIs) and trends.
 
@@ -8,7 +8,7 @@ The Call Center Performance Dashboard is a comprehensive analytical solution bui
 
 The primary goal of this dashboard is to evaluate and visualize call center performance by focusing on critical metrics such as call volume, revenue, ratings, and representative performance.
 
-### **Technical Skills Demonstrated**
+## **Technical Skills Demonstrated**
 
 - **Data Modeling:** Established relationships between datasets using Excel Power Pivot.
 - **DAX Measures:** Created dynamic KPIs for call center performance.
@@ -17,12 +17,11 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 - **Insights and Reporting:** Provided actionable recommendations for performance improvement.
 ---
 
-### **Dataset used **
+### **Dataset used**
+- <a href = "Call Center Dataset.xlsx">Dataset_Link</a>
 
--<a href = "Call Center Dataset.xlsx">Dataset_Link</a>
-
-**Dashboard File**
--<a href = "Call Center Analysis .xlsx"> Dashboard_File</a>
+# **Dashboard File**
+- <a href = "Call Center Analysis .xlsx"> Dashboard_File</a>
 
 
 ## **Key Features and Functionalities**
@@ -50,7 +49,7 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 - Demographic Analysis: Provides insights into caller gender and location distributions.
 - Representative Performance Analysis: Analyzes revenue generation and call handling efficiency per representative.
 
-## **Project Insights and Conclusions**
+# **Project Insights and Conclusions**
 
 ###  **Key Metrics Overview**
 - **Total Calls:** 1,000
