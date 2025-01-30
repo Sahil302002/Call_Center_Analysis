@@ -42,7 +42,7 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 - Incorporated conditional formatting for charts and tables to highlight trends.
 - Utilized dynamic images and XLOOKUP to display selected representatives' pictures, enhancing user interaction.
 
- ### **Insights Visualization**
+ ### **Insights of Visualization**
 - Calls Trend Line Graph: Displays call volume fluctuations throughout the year.
 - Weekday Bar Chart: Highlights daily call trends, with Saturdays peaking.
 - Rating Distribution Histogram: Shows the spread of customer ratings.
