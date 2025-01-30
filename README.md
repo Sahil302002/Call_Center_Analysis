@@ -1,4 +1,4 @@
-# CALL CENTRE PERFORMANCE Dashboard of 2023 ( Interactive and Dynamic Dashboard using Microsoft Excel)
+# Call Centre Performance Dashboard of 2023 ( Interactive and Dynamic Dashboard using Microsoft Excel)
 
 # **Project Overview**
 
