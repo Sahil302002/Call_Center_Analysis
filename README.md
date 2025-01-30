@@ -1,4 +1,4 @@
-# Call Center Performance Dashboard of 2023 ( Interactive and Dynamic Dashboard using Microsoft Excel)
+# CALL CENTRE PERFORMANCE Dashboard of 2023 ( Interactive and Dynamic Dashboard using Microsoft Excel)
 
 # **Project Overview**
 
@@ -20,7 +20,7 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 ### **Dataset used**
 - <a href = "Call Center Dataset.xlsx">Dataset_Link</a>
 
-# **Dashboard File**
+### **Dashboard File**
 - <a href = "Call Center Analysis .xlsx"> Dashboard_File</a>
 
 
@@ -30,7 +30,7 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
  - Created and structured relationships between the **Call Table** and **Customer Table** using the `CustomerId` column.
  - Leveraged Excel's Data Model feature to integrate datasets seamlessly.
       
- ### **KPI Creation with DAX**
+### **KPI Creation with DAX**
 - Designed essential measures, including **Call Count**, **Total Revenue**, **Total Duration**, **Average Rating**, and **5-Star Calls**, to establish the foundation for performance analysis.
   
 ###  **Dynamic Pivot Tables and Charts**
@@ -42,7 +42,7 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 - Incorporated conditional formatting for charts and tables to highlight trends.
 - Utilized dynamic images and XLOOKUP to display selected representatives' pictures, enhancing user interaction.
 
- **Insights Visualization**
+ ### **Insights Visualization**
 - Calls Trend Line Graph: Displays call volume fluctuations throughout the year.
 - Weekday Bar Chart: Highlights daily call trends, with Saturdays peaking.
 - Rating Distribution Histogram: Shows the spread of customer ratings.
@@ -69,7 +69,6 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 - R02 emerged as the top performer, generating the highest revenue of $20.9K.
 - R01 demonstrated efficiency with fewer calls but higher-value transactions.
 
-
 ### **Recommendations for Optimization**
 
 1. **Improve Low Ratings:** Analyze calls with 1-star ratings to identify areas for improvement.
@@ -84,4 +83,5 @@ The primary goal of this dashboard is to evaluate and visualize call center perf
 This Call Center Performance Dashboard is an exemplary project showcasing my expertise in Excel and data analysis. It demonstrates a strong ability to interpret and visualize data effectively, delivering actionable insights that drive business decisions. This project is a testament to my skills in building dynamic, data-driven solutions that align with organizational goals.
 
 **Dashboard Image** <a href = "Call Center Dashboard.png">Dashboard</a>
+
 ![Call Center Dashboard](https://github.com/user-attachments/assets/cf65188e-d4d5-42a7-a0f5-2056488b0a98)
